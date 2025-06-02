@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Profile Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakib-Hasan3&theme=radical&margin-w=15&margin-h=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=nuha63&theme=radical&margin-w=15&margin-h=15">
 </p>
 
 <!--## 🌎 Portfolio
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## 👀 Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakib-Hasan3&style=flat-square&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=nuha63&style=flat-square&color=blue">
 </p>
 --->
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nuha63&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuha633&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuha63&layout=compact&theme=radical">
 </p>
 
 ## 🔥 Contribution Graph:
